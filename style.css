@@ -1,4 +1,4 @@
-@import url(/block/base.css);
-@import url(/block/main.css);
-@import url(/block/animation.css);
-@import url(/block/container.css);
+@import url(./block/base.css);
+@import url(./block/main.css);
+@import url(./block/animation.css);
+@import url(./block/container.css);
